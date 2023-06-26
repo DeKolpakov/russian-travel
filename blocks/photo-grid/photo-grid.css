@@ -1,0 +1,18 @@
+.galery {
+  max-width: 100%;
+  margin: 0 0 12px 0;
+  padding: 0;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 16px;
+  /* grid-template-columns: repeat(auto-fit, minmax(284px, 1fr)); */
+}
+
+.galery__item {
+  max-width: 100%;
+}
+
