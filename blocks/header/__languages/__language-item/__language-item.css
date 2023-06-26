@@ -1,0 +1,17 @@
+.header__language-item {
+  color: #FFF;
+  font-size: 24px;
+  line-height: 28px;
+  margin: 0 18px 0 0;
+  padding: 0;
+}
+
+.header__language-item:last-child {
+  margin: 0;
+  text-decoration-line: none;
+}
+
+.header__language-item:hover {
+  transition: 0.5s;
+  opacity: 0.6;
+}
