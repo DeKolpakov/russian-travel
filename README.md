@@ -4,7 +4,7 @@
 * Описание
 * Технологии
 * Инструменты
-* Ссылка на макет
+* Ссылка на проект
 
 **Описание**
 * Данный проект выполнен в рамках обучения в Яндекс Практикум на специальности "Веб-разработчик".
@@ -22,7 +22,7 @@
 * Figma
 * Pixel Perfect
 
-**Figma**
+**Github**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Ссылка на проект в GIThub](https://dekolpakov.github.io/russian-travel/)
 
