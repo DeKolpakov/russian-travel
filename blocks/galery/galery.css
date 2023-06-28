@@ -5,3 +5,21 @@
   /* grid-template-rows: repeat(3, 1fr); */
   gap: 16px;
 }
+
+@media screen and (max-width: 1200px) {
+  .galery {
+    gap: 14px;
+  }
+}
+
+@media screen and (max-width: 920px) {
+  .galery {
+    gap: 16px;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .galery {
+    gap: 12px;
+  }
+}

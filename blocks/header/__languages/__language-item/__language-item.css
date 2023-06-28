@@ -8,6 +8,7 @@
 
 .header__language-item:last-child {
   margin: 0;
+  padding: 0;
   text-decoration-line: none;
 }
 
@@ -15,3 +16,10 @@
   transition: 0.5s;
   opacity: 0.6;
 }
+
+@media screen and (max-width:760px) {
+  .header__language-item {
+    font-size: 18px;
+    line-height: 20px;
+  }
+} 
