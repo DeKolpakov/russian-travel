@@ -3,6 +3,7 @@
   background-image: url(../../../images/cover_background.png);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -21,9 +22,9 @@
   left: 0;
   background-color: #2a2c2f;
   opacity: 0.3;
+  transition: opacity 0.7s;
 }
 
 .cover__link:hover::before {
-  transition: opacity 0.7s;
   opacity: 0.8;
 }
